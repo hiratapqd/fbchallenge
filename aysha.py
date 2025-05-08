@@ -177,7 +177,7 @@ if __name__ == '__main__':
 '''
     
 #usage examples on windows
-#curl -X "POST" "http://127.0.0.1:8000/Fizzbuzz/" -H "accept: application/json" -H "Content-Type: application/json" -d "{\"seu_numero\": 7}"
+#curl -X "POST" "http://127.0.0.1:8000/Fizzbuzz/" -H "accept: application/json" -H "Content-Type: application/json" -d "{\"your_number\": 7}"
 
 #usage example on Linux
-#curl -X 'POST' 'http://192.168.15.6:8000/Fizzbuzz/' -H 'accept: application/json' -H 'Content-Type: application/json' -d '{ "seu_numero": 3}' 
+#curl -X 'POST' 'http://192.168.15.6:8000/Fizzbuzz/' -H 'accept: application/json' -H 'Content-Type: application/json' -d '{ "your_number": 3}' 

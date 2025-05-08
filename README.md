@@ -6,3 +6,5 @@ python -m venv venv
 python.exe -m pip install --upgrade pip
 
 pip install -r requirements.txt
+
+python aysha.py     
